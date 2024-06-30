@@ -1,1 +1,1 @@
-# Exercícios para estuda da OBI(Olímpiada Brasileira de Informática)
+# Exercícios para estudo da OBI(Olímpiada Brasileira de Informática)
